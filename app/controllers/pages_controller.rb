@@ -3,6 +3,7 @@ class PagesController < ApplicationController
 
   def home
     return unless current_user.present?
+
     @categories = current_user.categories
     @categories = Category.where(user_id: current_user.id).order(created_at: :desc) || []
   end
