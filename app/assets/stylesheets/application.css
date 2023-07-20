@@ -13,12 +13,3 @@
  *= require_tree .
  *= require_self
  */
-
- .log-in {
-  text-align: center;
-  background-color: darkgrey;
- }
-
- .log-container {
-  
- }
