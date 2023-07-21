@@ -48,12 +48,12 @@ The budget app built with Rails is a user-friendly financial management tool. It
 
 
 - Register user
-- Login through a correct credentials
-- Display list of categories.
+- Login through the correct credentials
+- Display a list of categories.
 - Add categories to the  list
 - User to be able to delete a category
-- Display list of entities 
-- Add entities base on a category with the amount.
+- Display a list of entities 
+- Add entities based on a category with the amount.
 - User to be able to delete a 
 
 
@@ -124,7 +124,7 @@ rspec spec
 
 You can deploy this project using:
 
-- Deployed using render: [Live]() 
+- Deployed using render: [Live](https://budget-m5l6.onrender.com) 
 
 - Presentation: [Video]()
 
