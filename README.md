@@ -91,7 +91,7 @@ https://github.com/TaiwoEnoch/Budget-Tracker.git
 Install this project with:
 
 ```
-cd budget-app
+cd Budget-Tracker
 ```
 
 
@@ -126,7 +126,7 @@ You can deploy this project using:
 
 - Deployed using render: [Live](https://budget-m5l6.onrender.com) 
 
-- Presentation: [Video]()
+- Presentation: [Video](https://www.loom.com/share/3be59ba8d2ad496aa70bfd068bab51d0?sid=09684e87-eb1f-47af-9634-c018281b2f18)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
