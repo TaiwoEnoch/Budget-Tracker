@@ -102,7 +102,7 @@ bundle install
 
 ### Usage
 
-To run the project, execute the following command:
+To run the project, execute the below commands:
 
 ```
 rails s 
